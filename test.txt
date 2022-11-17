@@ -1,7 +1,4 @@
 main
-
 main
 
-
-man
-
+main
